@@ -3,7 +3,7 @@ For each section of the workshop, a website will be built upon as a class, in or
 
 One part of a workshop corresponds to 100 minutes.
 
-## Part 1: HTML
+## Topic 1: HTML
 1. Using a text editor
 2. How websites work
 3. What HTML is
@@ -17,7 +17,7 @@ One part of a workshop corresponds to 100 minutes.
    * Tables
    * Forms
 
-## Part 2: CSS
+## Topic 2: CSS
 1. Box model
 2. Syntax
 3. External CSS
@@ -29,7 +29,7 @@ One part of a workshop corresponds to 100 minutes.
 9. Grids
 
 
-## Part 3: Javascript
+## Topic 3: Javascript
 1. Purpose
 2. Syntax and Style Guide
 3. Statements, operators, arithmetic
@@ -46,7 +46,7 @@ One part of a workshop corresponds to 100 minutes.
 
 
 
-## Part 4: Final Project
+## Topic 4: Advanced concepts and final project
 Students add their own features to the newly completed website. Options to learn about advanced things like:
 
 * Bootstrap
