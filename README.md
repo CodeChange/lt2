@@ -34,9 +34,7 @@ One part of a workshop corresponds to 100 minutes.
 2. Syntax and Style Guide
 3. Statements, operators, arithmetic
 4. Variables
-5. Types of objects
-    * Booleans
-    * Arrays
+5. Booleans and Arrays
 6. Control Statements
     * If
     * While
