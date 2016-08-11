@@ -1,6 +1,8 @@
 # Structure
 For each section of the workshop, a website will be built upon as a class, in order to learn practical as well as theoretical aspects.
 
+One part of a workshop corresponds to 100 minutes.
+
 ## Part 1: HTML
 1. Using a text editor
 2. How websites work
