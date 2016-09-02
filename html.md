@@ -1,4 +1,5 @@
 # [HTML Introductory Course](https://github.com/ScriptSmith/lt2/blob/master/html.md)
+
 [DOWNLOAD](https://github.com/ScriptSmith/lt2/archive/master.zip)
 ### Topics
 1. Using a text editor

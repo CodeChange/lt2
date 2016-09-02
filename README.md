@@ -3,7 +3,7 @@ For each section of the workshop, a website will be built upon as a class, in or
 
 One part of a workshop corresponds to 100 minutes.
 
-## Topic 1: HTML
+[## Topic 1: HTML](html.md)
 1. Using a text editor
 2. How websites work
 3. What HTML is
@@ -17,7 +17,7 @@ One part of a workshop corresponds to 100 minutes.
    * Tables
    * Forms
 
-## Topic 2: CSS
+[## Topic 2: CSS](css.md)
 1. Box model
 2. Syntax
 3. External CSS
