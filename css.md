@@ -1,5 +1,5 @@
-
-
+# [HTML Introductory Course](https://github.com/ScriptSmith/lt2/blob/master/html.md)
+[DOWNLOAD](https://github.com/ScriptSmith/lt2/archive/master.zip)
 ## CSS
 
 CSS Stands for Cascading Style Sheet. The term 'Cascading' refers to the priority of the styles being applied.
@@ -403,7 +403,9 @@ There are four types of positions:
 * [Relative](http://www.w3schools.com/css/tryit.asp?filename=trycss_position_relative)
 * [Absolute](http://www.w3schools.com/css/tryit.asp?filename=trycss_position_absolute)
 
-<!--
+When elements are overlapping, you can layer them by adjusting the `z-index` property.
+
+
 ## Additional Functionality
 ### Embedding youtube videos
 ```html
@@ -423,26 +425,8 @@ There are four types of positions:
 
 
 ## Projects
-### Project 1 - A page about me
-Using your newly acquired knowledge, construct an HTML page that's all about you.
-
-Start with this structure:
-
-[LINK](project1.html)
-
-Using the code that you've learned during this session (and contained within this document), assemble a page that represents you.
-
-Consider including:
-
-* Your name
-* Your contact information
-* Links to your social media
-* Pictures of yourself
-* A table describing your availability
-* A map that shows where you work
-
 ### Project 2 - From scratch
-Now try to make the same site using your own stying. You can refer to the [CSS reference](css.pdf) or [w3Schools](http://www.w3schools.com/css/) if you need help or ideas.
+Now try to make the same personal site using your own stying. You can refer to the [CSS reference](css.pdf) or [w3Schools](http://www.w3schools.com/css/) if you need help or ideas.
 
 Start with this structure:
 
@@ -466,5 +450,3 @@ Start with this structure:
 * [w3Schools CSS](http://www.w3schools.com/css/)
 * [w3Schools Bootstrap](http://www.w3schools.com/bootstrap)
 * [w3schools Javascript](http://www.w3schools.com/js/default.asp)
-
-Finally, you can test your knowledge by attempting [this simple exercise](exercise.zip) -->

@@ -1,4 +1,4 @@
-# [HTML Introductory Course](https://github.com/ScriptSmith/codein180minutes/blob/master/html.md)
+# [HTML Introductory Course](https://github.com/ScriptSmith/lt2/blob/master/html.md)
 [DOWNLOAD](https://github.com/ScriptSmith/codein180minutes/archive/master.zip)
 ### Topics
 1. Using a text editor
@@ -629,3 +629,22 @@ Click me!
 <hr>
 
 Submit buttons will send the entered data to the location described in the action attribute.
+
+## Projects
+### Project 1 - A page about me
+Using your newly acquired knowledge, construct an HTML page that's all about you.
+
+Start with this structure:
+
+[LINK](project1.html)
+
+Using the code that you've learned during this session (and contained within this document), assemble a page that represents you.
+
+Consider including:
+
+* Your name
+* Your contact information
+* Links to your social media
+* Pictures of yourself
+* A table describing your availability
+* A map that shows where you work
