@@ -276,6 +276,21 @@ a {
 #### Misc
 w3schools covers the rest of the text-styling options [here](http://www.w3schools.com/css/css_text.asp)
 
+### Display
+You can use the `display` property to change and element's type between `block` and `inline`
+
+Remember the difference between `block` and `inline`?
+
+#### Block
+> A block-level element always starts on a new line and takes up the full width available
+
+#### Inline
+> An inline element does not start on a new line and only takes up as much width as necessary.
+
+*http://www.w3schools.com/css/css_display_visibility.asp*
+
+[DEMO](http://www.w3schools.com/css/tryit.asp?filename=trycss_display_inline_list)
+
 ### Boxes
 Here's a box demonstration:
 
