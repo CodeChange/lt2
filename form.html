@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Form</title>
+    </head>
+    <body>
+        <form>
+            <input type="text">
+            <br>
+            <input type="password" name="username" value="password1"/>
+            <br>
+            <textarea name="details"> Bla bla bla </textarea>
+            <br>
+            <input type="radio" name="flavour"> Vanilla
+            <input type="radio" name="flavour"> Strawberry
+            <input type="radio" name="flavour" checked="checked"> Chocolate
+            <input type="radio" name="other"> Extra
+            <br>
+            <input type="checkbox" name="features"> Air Conditioning
+            <input type="checkbox" name="features"> Radio
+            <input type="checkbox" name="features"> Rear-view camera
+            <input type="checkbox" name="features"> Cruise control
+            <input type="checkbox" name="features"> Power steering
+            <br>
+            <p>How old are you?</p>
+            <select name="ages">
+                <option value="0-18">0-18</option>
+                <option value="19-35">19-35</option>
+                <option value="36-55" selected="selected">36-55</option>
+                <option value="56-70">56-70</option>
+                <option value="70+">70+</option>
+            </select>
+            <br>
+            <input type="file" />
+            <br>
+            <input type="date">
+            <br>
+            <button onclick="alert('You clicked me!')">Click me!</button>
+            <br>
+            <form action="submit.php">
+                <br>
+            <input type="submit" />
+            <br>
+            </form>
+        </form>
+
+    </body>
+</html>
