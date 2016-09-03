@@ -1,0 +1,25 @@
+#dogs {
+    color: rgb(60, 161, 13);
+    background-color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+#cats {
+    background: yellow;
+    color: red;
+    font-family: Arial;
+    font-size: 24%;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+#cats {
+    color: black;
+}
