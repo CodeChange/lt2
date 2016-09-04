@@ -7,6 +7,13 @@
 * It makes your site interactive.
 * You send and receive information without refreshing the page.
 
+###jQuery
+```
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+```
+
 ### Embedding it
 ```HTML
 <script>
