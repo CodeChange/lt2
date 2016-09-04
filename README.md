@@ -29,7 +29,7 @@ One part of a workshop corresponds to 100 minutes.
 9. Grids
 
 
-## Topic 3: Javascript
+## [Topic 3: JavaScript](javascript.md)
 1. Purpose
 2. Syntax and Style Guide
 3. Statements, operators, arithmetic
